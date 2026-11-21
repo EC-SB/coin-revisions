@@ -1,0 +1,17 @@
+{
+  "name": "Salle des tablettes — Évolution Conduites",
+  "short_name": "Salle",
+  "description": "La salle des tablettes : l'élève regarde son cours de théorie.",
+  "start_url": "./?salle=1",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#FFFFFF",
+  "theme_color": "#B6FF0E",
+  "lang": "fr",
+  "icons": [
+    { "src": "icone-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icone-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icone-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
